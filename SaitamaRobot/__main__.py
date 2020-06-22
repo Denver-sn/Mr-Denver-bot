@@ -22,7 +22,6 @@ I am a group management bot + Antiscam for RR Players.
 To add me to your group click ["HERE"](t.me/MrDenver_bot?startgroup=botstart)
 You can find my list of available commands with /help.
 
-
 See [Basic Configuration Checklist](https://t.me/mrdenver_support/1) on how to secure your group.
 Join our Channel Support @mrdenver_support.
 """
